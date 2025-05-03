@@ -1,0 +1,30 @@
+.experience-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+
+.delete-btn {
+    margin-top: 0.5rem;
+    background-color: red;
+    color: white;
+}
+
+.add-btn,
+.submit-btn,
+.edit-btn {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 7px;
+    border: none;
+    background-color: #0056b3;
+    color: white;
+    cursor: pointer;
+}
+
+.add-btn:hover,
+.submit-btn:hover,
+.edit-btn:hover {
+    background-color: #0056b3;
+}
